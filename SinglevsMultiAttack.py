@@ -2,7 +2,7 @@
 """
 Created on Sun Nov 26 14:25:14 2023
 
-@author: maxwe
+@author: DungeonMaxter
 """
 
 from random import randint
